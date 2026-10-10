@@ -1,0 +1,37 @@
+[
+  {"user": "Aisha", "movie": "The Matrix", "stars": 5},
+  {"user": "Aisha", "movie": "Inception", "stars": 5},
+  {"user": "Aisha", "movie": "Interstellar", "stars": 4},
+  {"user": "Aisha", "movie": "Edge of Tomorrow", "stars": 4},
+  {"user": "Aisha", "movie": "Titanic", "stars": 2},
+
+  {"user": "Ben", "movie": "The Matrix", "stars": 5},
+  {"user": "Ben", "movie": "Inception", "stars": 4},
+  {"user": "Ben", "movie": "The Martian", "stars": 5},
+  {"user": "Ben", "movie": "Gravity", "stars": 4},
+  {"user": "Ben", "movie": "John Wick", "stars": 5},
+
+  {"user": "Chloe", "movie": "Forrest Gump", "stars": 5},
+  {"user": "Chloe", "movie": "Titanic", "stars": 5},
+  {"user": "Chloe", "movie": "The Lake House", "stars": 4},
+  {"user": "Chloe", "movie": "Cast Away", "stars": 4},
+  {"user": "Chloe", "movie": "The Green Mile", "stars": 5},
+
+  {"user": "Daniel", "movie": "Se7en", "stars": 5},
+  {"user": "Daniel", "movie": "The Departed", "stars": 5},
+  {"user": "Daniel", "movie": "Mystic River", "stars": 4},
+  {"user": "Daniel", "movie": "Fight Club", "stars": 4},
+  {"user": "Daniel", "movie": "Ocean's Eleven", "stars": 3},
+
+  {"user": "Elena", "movie": "Interstellar", "stars": 5},
+  {"user": "Elena", "movie": "The Prestige", "stars": 5},
+  {"user": "Elena", "movie": "Oppenheimer", "stars": 4},
+  {"user": "Elena", "movie": "Batman Begins", "stars": 4},
+  {"user": "Elena", "movie": "Inception", "stars": 5},
+
+  {"user": "Farhan", "movie": "The Shawshank Redemption", "stars": 5},
+  {"user": "Farhan", "movie": "The Green Mile", "stars": 4},
+  {"user": "Farhan", "movie": "Forrest Gump", "stars": 4},
+  {"user": "Farhan", "movie": "Apollo 13", "stars": 5},
+  {"user": "Farhan", "movie": "Saving Private Ryan", "stars": 5}
+]
