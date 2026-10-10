@@ -29,8 +29,8 @@ genres and user ratings in **Neo4j Aura Free**, explored with **Python** and **C
 Needs Python 3.10+.
 
 ```bash
-git clone https://github.com/perpetualxbeta-ai/neo4j-kg-playground.git
-cd neo4j-kg-playground
+git clone https://github.com/perpetualxbeta-ai/movie-knowledge-graph.git
+cd movie-knowledge-graph
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -56,6 +56,11 @@ Each lesson file is mostly comments: read it top to bottom, run it, then change 
 **See the graph, don't just print it.** In the Aura console, open **Query** and paste queries
 from [`cypher/cheatsheet.cypher`](cypher/cheatsheet.cypher). Results that return nodes or paths
 are drawn as an interactive picture you can drag around.
+
+**No Python? Load the graph from the console instead.** Paste
+[`cypher/load_movies.cypher`](cypher/load_movies.cypher) (then optionally
+[`cypher/load_ratings.cypher`](cypher/load_ratings.cypher)) into the Aura console's Query box and click Run.
+It builds the same graph as lesson 2, so you can skip straight to the cheatsheet.
 
 ## 4. Vibe code your way further
 
